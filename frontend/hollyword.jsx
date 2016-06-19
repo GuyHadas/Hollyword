@@ -14,6 +14,7 @@ var Hollyword = React.createClass({
     return (
       <div>
         Hello world!
+        World Hello!
       </div>
     );
   }
